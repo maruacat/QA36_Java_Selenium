@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Start" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-05T10:53:42" hostname="MacBook-Air-Marina.local" time="18.628">
+<testsuite name="Start" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-05T11:05:46" hostname="MacBook-Air-Marina.local" time="18.07">
   <properties/>
-  <testcase name="startTrello" classname="Start" time="18.628"/>
+  <testcase name="startTrello" classname="Start" time="18.07"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 6834
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 30176
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
